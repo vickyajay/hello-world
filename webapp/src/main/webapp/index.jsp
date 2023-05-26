@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> MANUAL BUILD TRIGGER :: New USER Register for DevOps Learning</h1>
+    <h1> AUTOMATED BUILD TRIGGER :: New USER Register for DevOps Learning</h1>
     <p>WELCOME GUYS</p>
     <hr>
      
