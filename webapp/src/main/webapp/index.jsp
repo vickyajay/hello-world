@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1> TESTING PHASE ::: AUTOMATED BUILD TRIGGER :: New USER Register for DevOps Learning</h1>
-    <p>WELCOME GUYS</p>
+    <p>WELCOME TESTERS</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
@@ -26,9 +26,6 @@
     <br>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
-  </div>
-  <div class="container signin">
-	  <p>                               <br>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
