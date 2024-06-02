@@ -30,7 +30,8 @@
     <button type="submit" class="registerbtn">Register</button>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+
+   <h1> Thankyou,OKKKKK Happy Learning </h1>
 
   
 </form>
